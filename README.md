@@ -67,7 +67,7 @@ El archivo `package.json` tendrá una apariencia semejante a la siguiente:
   "name": "tiendabackend",
   "version": "1.0.0",
   "description": "Backend of a Fullstack webapp",
-  "author": "jamj2000 at google dot com",
+  "author": "antonio-aguilar at google dot com",
   "license": "GPL",
   "main": "server.js",
   "scripts": {
