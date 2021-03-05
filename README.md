@@ -149,7 +149,7 @@ Si echamos un vistazo al archivo **`package.json`** veremos que dichos paquetes 
   "name": "tiendabackend",
   "version": "1.0.0",
   "description": "Backend of a Fullstack webapp",
-  "author": "jamj2000 at google dot com",
+  "author": "antonio-aguilar at google dot com",
   "license": "GPL",
   "main": "server.js",
   "scripts": {
@@ -247,7 +247,7 @@ const DB_URI = process.env.DB_URI;
 
 Si la variable `PORT` no está definida en el archivo `.env`, entonces se utiliza el valor 3000. En nuestro caso, es mejor no definir dicha variable.
 
-La variable `DB_URI` debe estar definida en el archivo `.env` sino la conexión a la base de datos fallará. Dicha variable contiene la URL de la base de datos. Consulta más abajo, en el apartado [Base de datos](https://github.com/jamj2000/tiendabackend#base-de-datos).
+La variable `DB_URI` debe estar definida en el archivo `.env` sino la conexión a la base de datos fallará. Dicha variable contiene la URL de la base de datos. Consulta más abajo, en el apartado [Base de datos](https://github.com/antonio-aguilar/tiendabackend#base-de-datos).
 
 
 ### Conectando a una base de datos
@@ -507,9 +507,7 @@ Puesto que el archivo `.env` no se debe subir al sistema de control de versiones
 
 En concreto, en esta aplicación debemos configurar la variable DB_URI con la URI de conexión a la base de datos.
 
-**Desde la interfaz web**
 
-![heroku env](snapshots/heroku-env.png)
 
 **Desde CLI**
 
