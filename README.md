@@ -528,4 +528,4 @@ heroku config -a tiendabackend
 
 > NOTA: Sustituye *tiendabackend* por el nombre de tu aplicación.
 
-Prueba git add . y git commit
+Prueba git add . y git commit de tiendabackend
