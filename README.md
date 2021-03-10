@@ -527,3 +527,5 @@ heroku config -a tiendabackend
 > `heroku config:unset NOMBRE_VARIABLE -a tiendabackend`
 
 > NOTA: Sustituye *tiendabackend* por el nombre de tu aplicación.
+
+Prueba git add . y git commit
